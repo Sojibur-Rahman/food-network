@@ -30,3 +30,17 @@ h1{
     font-weight: 700;
     color: white;
 }
+
+.half-width img{
+    width: 100%;
+    }
+
+.about-me{
+    background-image: url(img/shapes/7.png);
+    background-repeat: no-repeat;
+    }
+
+.about-img{
+  
+}
+
