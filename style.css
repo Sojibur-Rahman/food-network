@@ -44,3 +44,32 @@ h1{
   
 }
 
+.my-recipie{
+    text-align: center;
+    
+}
+.recipies-title-dev{
+    display: flex;
+    
+    width: 100%;
+    margin: 0 auto;
+    height: auto;
+    justify-content: space-between;
+}
+.recipi-title-img img{
+    width: 300px;
+    height: 200px;
+    padding-top: 20px;
+    padding-left: 20px;
+    
+}
+.recipies-title-two{
+    width: 30%;
+    height: auto;
+    box-shadow: 0 0 15px 5px gray;
+    border-radius: 15px;
+
+}
+.title-two-p{
+    padding: 20px;
+}
