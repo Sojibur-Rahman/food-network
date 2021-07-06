@@ -77,8 +77,8 @@ h1{
 }
 .recipies-title-dev{
     display: flex;
-    
-    width: 100%;
+    padding: 2px;
+    width: 90%;
     margin: 0 auto;
     height: auto;
     justify-content: space-between;
