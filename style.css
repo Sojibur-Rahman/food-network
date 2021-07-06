@@ -1,6 +1,6 @@
 
 body {
-    
+   
 font-family: 'Roboto Condensed', sans-serif;
 }
 
@@ -95,4 +95,18 @@ h1{
 .width-100{
     width: 100%;
     margin-left: 50px;
+}
+
+.span-food{
+    color:orange ;
+}
+.section-5-div{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    height: 300px;
+    margin-top: 60px;
+}
+.section-div-2{
+    padding: 30px;
 }
